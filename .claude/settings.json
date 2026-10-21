@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Base44__write_file",
+      "mcp__Base44__edit_file",
+      "mcp__Base44__edit_base44_app",
+      "mcp__Base44__create_base44_app",
+      "mcp__Base44__create_checkpoint",
+      "mcp__Base44__create_entities",
+      "mcp__Base44__create_entity_schema",
+      "mcp__Base44__update_entities",
+      "mcp__Base44__update_entity_schema"
+    ]
+  }
+}
